@@ -3,3 +3,11 @@ body{
    background-repeat: no-repeat;
    height: 100vh;
    }
+
+
+
+  .logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   }
